@@ -11,7 +11,7 @@ class TestController extends Controller
 
     /**
      * Function down below is example from AWS SDK EXAMPLE REPOSITORY
-     * Docummentation : https://github.com/aws/aws-sdk-php/tree/master/src
+     * Docummentation : https://github.com/awsdocs/aws-doc-sdk-examples/blob/main/php/example_code/s3/PresignedURL.php
      * Access this funciton : http://localhost:8000/test
      */
     public function index() {
